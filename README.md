@@ -44,12 +44,6 @@ To use the notebooks in this repository, follow these steps:
    cd machine-learning-examples
    ```
 
-3. Open the desired notebook using Jupyter Notebook or JupyterLab:
-
-   ```
-   jupyter notebook <notebook_name>.ipynb
-   ```
-
 4. Follow the instructions and run the code cells in the notebook to understand the concepts and experiment with the code.
 
 ## Contributing
