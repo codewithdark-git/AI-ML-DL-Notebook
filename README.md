@@ -41,7 +41,7 @@ To use the notebooks in this repository, follow these steps:
 2. Navigate to the cloned directory:
 
    ```
-   cd machine-learning-examples
+   cd machine-Lreaning-and-Notebook
    ```
 
 4. Follow the instructions and run the code cells in the notebook to understand the concepts and experiment with the code.
