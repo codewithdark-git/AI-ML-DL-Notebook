@@ -1,0 +1,101 @@
+,id,name,major,GPA,city,age,email,graduation_year
+0,1,Dark,Business,2.56,Jacksonville,19,dark@gmail.com,2024
+1,2,Jonathan Johnston,Business,3.21,San Diego,20,rmurphy@gmail.com,2025
+2,3,Natalie Bentley,Engineering,3.65,San Jose,25,robinsonrita@diaz-miranda.com,2026
+3,4,Anita Mills,Chemistry,2.36,Philadelphia,24,qhardy@hotmail.com,2025
+4,5,Danielle Cummings,Psychology,2.23,San Diego,19,deleonadam@young-stephenson.com,2024
+5,6,Crystal Rodriguez,Art,2.77,San Antonio,20,dianajordan@gmail.com,2024
+6,7,Ashley Sanchez,Engineering,2.23,San Jose,20,zcoleman@ruiz.com,2027
+7,8,Matthew Cruz,Psychology,2.66,Charlotte,22,xbauer@gmail.com,2027
+8,9,Alexander Rowe,Engineering,3.02,Philadelphia,21,jason85@jimenez.com,2026
+9,10,Mrs. Jessica Mcdonald,Physics,3.55,Philadelphia,21,lauraallen@yahoo.com,2023
+10,11,Marcus Quinn,English,3.27,San Diego,22,sandersbenjamin@gmail.com,2024
+11,12,Michael Warren,Mathematics,3.13,Phoenix,20,adambranch@yahoo.com,2025
+12,13,Russell Dennis,Physics,3.91,San Diego,22,gregorygriffin@roberts-todd.com,2024
+13,14,Deborah Bowman MD,Biology,2.09,Columbus,18,obrady@williamson.com,2025
+14,15,Gregory Johnson,Art,3.31,Fort Worth,20,jamesmurphy@yahoo.com,2024
+15,16,Ryan Campos,English,2.35,Houston,20,gregory47@yahoo.com,2025
+16,17,Anthony Knight,Mathematics,2.7,Dallas,22,jeffreytaylor@yahoo.com,2025
+17,18,Michelle Hood,Sociology,3.2,Philadelphia,18,tracy70@hotmail.com,2024
+18,19,Scott Gibson,Art,3.3,Jacksonville,19,jareddiaz@cook.org,2026
+19,20,Brandy Morgan,Economics,3.35,San Antonio,22,cindy08@long-wilson.info,2024
+20,21,Thomas Moran,Music,3.79,New York,25,brandonbutler@gmail.com,2027
+21,22,Mark Freeman,Sociology,2.63,Philadelphia,18,megan21@thomas.net,2027
+22,23,Gary Reeves,Music,3.77,Houston,23,michelleparks@evans.com,2025
+23,24,Ashley Robinson,History,2.59,San Jose,23,derrick38@morgan.com,2026
+24,25,Kristen Bailey,Biology,3.23,Fort Worth,22,petersdesiree@gmail.com,2027
+25,26,Ashley Parsons,Economics,3.95,Dallas,18,kwong@ortiz.com,2026
+26,27,John Martin,Sociology,2.02,Dallas,23,benjamin62@gmail.com,2023
+27,28,Paula Campbell,Physics,3.66,Chicago,18,michaelbell@gmail.com,2023
+28,29,Alicia Moore,Biology,3.13,Chicago,19,brittneysuarez@castillo.com,2026
+29,30,Amanda Clark,Computer Science,2.06,San Jose,23,cbarker@king-cooper.com,2027
+30,31,Glen Collins,Sociology,2.1,San Diego,20,monroesamuel@hotmail.com,2023
+31,32,Marcia Valdez,Political Science,3.82,San Diego,20,msmith@yahoo.com,2024
+32,33,Travis White,Economics,3.37,Chicago,19,christopher55@gmail.com,2023
+33,34,Jessica Tran,Business,2.75,San Antonio,23,alvareztanner@gmail.com,2023
+34,35,Brandon Sanchez,Mathematics,3.26,New York,22,urobertson@wise-henderson.com,2026
+35,36,Darrell Marquez,Mathematics,2.74,San Diego,19,robertcampbell@combs-ray.com,2027
+36,37,Traci Alvarado,Art,2.48,Phoenix,22,jennifer98@hotmail.com,2024
+37,38,Eric Salazar,History,3.52,San Jose,19,urogers@west-munoz.biz,2024
+38,39,Debbie Lam,History,2.07,Columbus,23,jeremyfisher@hotmail.com,2027
+39,40,Curtis Bishop,Music,3.42,Chicago,24,briangarza@yahoo.com,2023
+40,41,Steven Patterson,Economics,2.46,Houston,25,daviskathleen@wall.biz,2026
+41,42,Benjamin Hall,Physics,3.91,Phoenix,23,allenallison@gmail.com,2024
+42,43,David Oliver,Business,2.29,Columbus,25,ortizjohnny@stephens.biz,2023
+43,44,Brent Hurst,Physics,3.08,Philadelphia,23,daniellegarcia@miller.org,2025
+44,45,Patricia Schneider,Computer Science,3.39,Fort Worth,21,alejandroadams@hotmail.com,2027
+45,46,Trevor Petersen,Physics,3.14,San Diego,21,morrispaige@martin.biz,2027
+46,47,Richard Adams,Engineering,2.16,San Diego,20,carolyn08@hotmail.com,2026
+47,48,Erik Carrillo,Political Science,2.75,San Antonio,22,masonrobert@mathews-fisher.com,2023
+48,49,Stacy Clark,Mathematics,2.4,San Jose,21,ljohnson@gmail.com,2025
+49,50,Melissa Williams,Business,2.12,Fort Worth,22,stevenpetersen@schwartz.com,2023
+50,51,Andrea Thompson,Music,2.37,Austin,20,rebecca28@hotmail.com,2024
+51,52,William Carroll,Computer Science,2.67,Austin,24,james54@gmail.com,2025
+52,53,Matthew Kramer,Mathematics,3.74,Jacksonville,22,brenda80@nelson-powers.com,2024
+53,54,Emily Villanueva,Physics,2.88,Fort Worth,23,roy58@yahoo.com,2025
+54,55,Cindy Stone,Chemistry,2.8,San Jose,25,markwilson@hotmail.com,2027
+55,56,James Garcia,Sociology,3.66,San Antonio,21,gonzalezsteven@yahoo.com,2026
+56,57,Carol Brown,Art,2.13,Austin,20,scott81@gmail.com,2026
+57,58,Lauren Owen,Art,2.65,Phoenix,24,walkermichael@gmail.com,2026
+58,59,Casey Bennett,Chemistry,2.39,Fort Worth,20,nwilliams@brown-delgado.info,2023
+59,60,Jack Atkinson,Engineering,2.45,San Antonio,21,ujimenez@morris.com,2026
+60,61,Jeremiah Morgan,Political Science,2.14,Fort Worth,22,seanbrown@smith.org,2023
+61,62,Jeffrey Ponce,Music,3.65,Chicago,24,burgesssharon@hotmail.com,2026
+62,63,Sandra Wilson,Mathematics,2.87,Fort Worth,21,brettphillips@gmail.com,2025
+63,64,Jacob Mercado,Engineering,3.13,Phoenix,24,seth83@hotmail.com,2025
+64,65,Alexis Shah,Chemistry,3.58,Fort Worth,22,lynchrebecca@martinez.com,2023
+65,66,Melissa Mann,Political Science,3.59,San Diego,22,qfoley@yahoo.com,2027
+66,67,Rachel Miller,Economics,3.84,Austin,20,jeffrey53@blankenship.com,2024
+67,68,Michaela Mayer,Biology,3.44,San Jose,21,mariaharris@hotmail.com,2024
+68,69,Kathleen Hammond,Political Science,3.78,San Antonio,18,brendahunt@wallace.net,2027
+69,70,Shirley Little,Physics,3.56,Los Angeles,20,codyjensen@hotmail.com,2027
+70,71,Danny Rich,Chemistry,2.19,Los Angeles,20,jeromedalton@greene.com,2025
+71,72,Alexander Alvarado MD,Sociology,3.48,Austin,21,zoconnor@hernandez-kaiser.com,2027
+72,73,Andrew Gonzales,Physics,3.38,Los Angeles,23,emily51@green.net,2023
+73,74,Brandon Mills,Computer Science,2.8,San Jose,24,felicia12@gmail.com,2024
+74,75,Bryan Robinson,Sociology,3.9,Charlotte,22,nbrown@yahoo.com,2026
+75,76,Andrew Haley,Computer Science,3.89,Austin,20,ewingtimothy@cook.com,2023
+76,77,Donald Smith,Physics,2.15,Philadelphia,20,becksarah@yahoo.com,2024
+77,78,Dominique Smith,Business,3.96,New York,22,rosejames@yahoo.com,2027
+78,79,Robert Gonzalez,Sociology,2.39,Jacksonville,25,michael79@ortiz.com,2024
+79,80,Dr. Katherine Smith,Engineering,2.33,New York,24,robert91@gmail.com,2026
+80,81,Eric Miller,Computer Science,2.37,Los Angeles,23,boydandrea@gonzalez.com,2023
+81,82,Shawn Allen,Economics,2.76,Los Angeles,20,tyler34@yahoo.com,2023
+82,83,Daniel Gray,Business,3.63,Fort Worth,19,stacey62@matthews.com,2026
+83,84,Lisa Wilson,Chemistry,3.08,Los Angeles,18,cwilliams@goodman-jenkins.com,2026
+84,85,James King,Physics,3.61,Houston,18,handerson@diaz-smith.com,2023
+85,86,Bradley Reyes,Chemistry,3.35,Columbus,24,danielledean@williams-page.org,2023
+86,87,Robert Thompson,Music,2.44,San Diego,18,marshbrenda@hotmail.com,2025
+87,88,Jennifer Mendez,English,3.41,Houston,18,michelle58@hotmail.com,2024
+88,89,Alexis Taylor,Art,2.83,San Diego,20,wbrown@murphy-copeland.info,2027
+89,90,Dr. Amber Blackwell MD,Art,2.7,Fort Worth,18,dixonnancy@cummings.com,2023
+90,91,Susan Davis,Political Science,3.34,Chicago,23,rturner@hardin.com,2026
+91,92,Mark Smith,Mathematics,3.53,Charlotte,19,joannescott@dominguez.org,2024
+92,93,Stephanie Hendrix,Mathematics,2.49,Houston,25,nrobinson@brown.com,2024
+93,94,Morgan Ferguson,Biology,3.62,San Diego,25,monique49@hotmail.com,2023
+94,95,James Richardson,Art,2.81,Fort Worth,20,denise24@cook-frank.info,2024
+95,96,Christina Quinn,Biology,2.55,Columbus,24,lewiskelly@dawson.com,2023
+96,97,Chad Fernandez,Art,2.95,Phoenix,20,kimberlyjohnson@leonard-munoz.com,2026
+97,98,Scott Smith,Art,2.91,New York,21,savagekayla@johnson.com,2025
+98,99,Stephanie Carrillo,Biology,3.28,San Diego,19,smithmichelle@ramos.com,2023
+99,100,Jeffrey Farrell,Engineering,3.43,Houston,24,megan43@yahoo.com,2026
